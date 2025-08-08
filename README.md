@@ -10,7 +10,7 @@ Troscan is a modern, responsive website for a premium furniture company, built w
 
 ## 🌐 Live Demo
 
-[https://troscan.com](https://troscan.com)
+[https://troscann.com](https://troscann.com)
 
 ## 📦 Installation
 
