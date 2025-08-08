@@ -51,7 +51,7 @@ export const FeaturedSection = () => {
                 }}
                 className="text-4xl font-normal text-[#8D493A] text-center md:w-[500px] mx-auto z-10"
             >
-                Transforming spaces with style, through Troscán's exquisite design expertise.
+                Transforming spaces with style&apos; through Troscán&apos;s exquisite design expertise
             </motion.h4>
 
             <div className="md:flex grid md:block hidden justify-center items-center md:gap-10">

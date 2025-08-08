@@ -8,7 +8,7 @@ export const metadata = {
 const Contact = () => {
     return (
         <div className="md:mt-48 mt-32 mb-32">
-            <h1 className="text-[#8D493A] md:text-8xl text-5xl md:w-1/2 mx-auto text-center font-medium">Let's Bring Your Vision to Life</h1>
+            <h1 className="text-[#8D493A] md:text-8xl text-5xl md:w-1/2 mx-auto text-center font-medium">Let&apos;s Bring Your Vision to Life</h1>
 
             <div className="md:flex grid md:mt-14 mt-6 justify-center gap-6 mx-14">
                 <Image 

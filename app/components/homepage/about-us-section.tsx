@@ -31,13 +31,13 @@ const LeftSideTexts = () => {
                 <span className="text-[#8D493A]">About Us</span>
             </div>
             <h2 className="text-[#8D493A] md:text-6xl text-4xl font-medium">
-                Where Spaces Inspire, and Design Comes Alive
+                Where Spaces Inspire and Design Comes Alive
             </h2>
             <p className="text-[#8D493A] pt-36 pb-7">
-                At Troscán, we believe that every space has a story to tell. As a premier furniture design and room decorating agency.
+                At Troscán we believe that every space has a story to tell&apos; As a premier furniture design and room decorating agency&apos;
             </p>
             <p className="text-[#8D493A] pb-6">
-                Our expert team blends timeless craftsmanship with innovative designs, ensuring each piece and layout reflects your unique taste and lifestyle. Whether you're looking to reimagine your living room.
+                Our expert team blends timeless craftsmanship with innovative designs&apos; ensuring each piece and layout reflects your unique taste and lifestyle &apos; Whether you&apos;re looking to reimagine your living room &apos;
             </p>
         </div>
     )

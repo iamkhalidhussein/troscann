@@ -3,8 +3,15 @@ import Image from "next/image";
 import Link from "next/link";
 import projects from "@/app/lib/projects.json";
 
-const Project = async ({ params }: { params: { title: string}}) => {
-    const title = decodeURIComponent(params.title);
+type PageProps = {
+    params: Promise<{
+      title: string;
+    }>;
+  };
+
+
+const Project = async ({ params }: PageProps) => {
+    const { title } = await params;
     const project = projectDetails.find(project => project.title === title);
     
     return (

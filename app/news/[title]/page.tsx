@@ -3,8 +3,15 @@ import news from "@/app/lib/news.json";
 import Link from "next/link";
 import { ParagraphWithGaps } from "@/app/utils/paragraph-with-gaps";
 
-const NewsDetail = ({params}: { params: { title: string}}) => {
-    const title = decodeURIComponent(params.title);
+type PageProps = {
+    params: Promise<{
+      title: string;
+    }>;
+  };
+  
+
+const NewsDetail = async ({params}: PageProps) => {
+    const { title } = await params;
     const n = news.find(n => n.title === title);
 
     return (
@@ -28,7 +35,7 @@ const NewsDetail = ({params}: { params: { title: string}}) => {
 
             <div className="p-9 rounded-md text-[#8D493A] mb-48 md:w-1/2 w-[450px] mx-auto bg-[#FFFFFF]">
                 {n?.details && (
-                    <ParagraphWithGaps text={n?.details} linesPerChunk={4}/>
+                    <ParagraphWithGaps text={n?.details} sentencesPerChunk={4}/>
                 )}
             </div>
 
@@ -38,7 +45,7 @@ const NewsDetail = ({params}: { params: { title: string}}) => {
                         <div className="w-2 h-2 bg-[#8D493A] rounded-full"/>
                         <span className="text-[#8D493A]">Next News</span>
                     </div>
-                    <h1 className="text-[#8D493A] font-medium text-4xl">What's Next</h1>
+                    <h1 className="text-[#8D493A] font-medium text-4xl">What&apos;s Next</h1>
                 </div>
                 <Link href='/news' className="bg-[#8D493A] py-3 px-5 rounded-sm text-[#F8EDE3]">View All News</Link>
             </div>
