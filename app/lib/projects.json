@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "/projects/project1.webp",
+        "title": "Serene Urban Retreat",
+        "date": "February 5, 2022",
+        "description": "Where modern comfort meets peaceful sophistication."
+    },
+    {
+        "id": 2,
+        "image": "/projects/project2.webp",
+        "title": "Luxarious Coastel Living",
+        "date": "February 22, 2022",
+        "description": "Bringing the beauty of the shore into your home."
+    },
+    {
+        "id": 3,
+        "image": "/projects/project3.webp",
+        "title": "Modern Elegance in Every Room",
+        "date": "January 21, 2023",
+        "description": "Redefining spaces with timeless style and innovation."
+    },
+    {
+        "id": 4,
+        "image": "/projects/project4.webp",
+        "title": "The Art of Layering Texture in Interior Design",
+        "date": "March 17, 2023",
+        "description": "Creating Deepth and Warmth Through Material Harmony"
+    },
+    {
+        "id": 5,
+        "image": "/projects/project5.webp",
+        "title": "The Rise of Minimalism in Modern Homes",
+        "date": "August 22, 2023",
+        "description": "Less Clutter, More Purpose in Interior Design"
+    },
+    {
+        "id": 6,
+        "image": "/projects/project6.webp",
+        "title": "How to Choose the Perfect Lighting for Every Room",
+        "date": "January 2, 2024",
+        "description": "Less Clutter, More Purpose in Interior Design"
+    }
+]

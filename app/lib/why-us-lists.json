@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "image": "/icons/gear.svg",
+        "title": "Tailored Designs for Every Space",
+        "description": "We believe every space is unique, and so should be its design. Our bespoke solutions are crafted to reflect your personality, needs, and lifestyle."
+    },
+    {
+        "id": "02",
+        "image": "/icons/user.svg",
+        "title": "Attention to Every Detail",
+        "description": "From the finest furniture finishes to the perfect decor accents, we meticulously focus on every detail to ensure flawless results."
+    },
+    {
+        "id": "03",
+        "image": "/icons/collaboration.svg",
+        "title": "Seamless Collaboration",
+        "description": "Your vision is our priority. We work closely with you at every step, combining your ideas with our expertise to create spaces you’ll love"
+    },
+    {
+        "id": "04",
+        "image": "/icons/elegance.svg",
+        "title": "Timeless Elegance",
+        "description": "Our designs go beyond trends to create spaces that stand the test of time, offering a perfect blend of style, comfort, and functionality."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Emma Collins",
+        "image": "/emma.avif",
+        "role": "Creative Director"
+    },
+    {
+        "id": 2,
+        "name": "Liam Bennett",
+        "image": "/liam.avif",
+        "role": "Lead Furniture Designer"
+    },
+    {
+        "id": 3,
+        "name": "Sophia Turner",
+        "image": "/sophia.avif",
+        "role": "Iterior Stylist"
+    },
+    {
+        "id": 4,
+        "name": "Oliver Harris",
+        "image": "/oliver.avif",
+        "role": "Space Planner"
+    },
+    {
+        "id": 5,
+        "name": "Isabella Reed",
+        "image": "/issabella.avif",
+        "role": "Lighting Specialist"
+    },
+    {
+        "id": 6,
+        "name": "Ethan Wright",
+        "image": "/ethan.avif",
+        "role": "Client Experience Manager"
+    }
+]

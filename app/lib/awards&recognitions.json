@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Best Interior Design Agency",
+        "description": "Awarded for outstanding innovation in interior design concepts",
+        "year": "2025"
+    },
+    {
+        "id": 2,
+        "title": "Excellence in Custom Furniture",
+        "description": "Recognized for creating bespoke, high-quality furniture pieces",
+        "year": "2024"
+    },
+    {
+        "id": 3,
+        "title": "Outstanding Room Makeover",
+        "description": "Honored for transforming spaces with impeccable style",
+        "year": "2023"
+    },
+    {
+        "id": 4,
+        "title": "Top Emerging Design Studio",
+        "description": "Celebrated for redefining modern interior aesthetics",
+        "year": "2022"
+    },
+    {
+        "id": 5,
+        "title": "Client Choice Award",
+        "description": "Voted for exceptional customer service and design expertise",
+        "year": "2021"
+    }
+]
